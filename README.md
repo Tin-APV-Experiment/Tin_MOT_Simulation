@@ -5,7 +5,7 @@ This repository contains raw data generated from the **Optical Bloch Equation si
 - Laser slowing of tin (Sn) atoms  
 - Laser cooling and magneto-optical trapping (MOT) of Sn atoms
 
-More details on the Sn laser cooling and trapping simulation results and an outline of how such a cold Sn atom experiment can be used to study **atomic parity violation (APV)** and **isotope shift physics** can be found in our manuscript ([arXiv:2509.04635](https://arxiv.org/abs/2509.04635)).
+More details on the Sn laser cooling and trapping simulation results and an outline of how a laser-cooled and magneto-optically trapped gas of Sn atoms can subsequently be used for experiments studying **atomic parity violation (APV)** and **isotope shift probes of Beyond Standard Model + nuclear physics** can be found in our manuscript ([arXiv:2509.04635](https://arxiv.org/abs/2509.04635)).
 
 The repository also includes MATLAB analysis code used to analyze the raw data. This includes:
 - Plot acceleration heat maps and curves  
