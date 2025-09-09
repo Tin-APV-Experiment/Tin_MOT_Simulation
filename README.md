@@ -41,7 +41,9 @@ Additionally contains the Julia files which run the OBE solver for red MOT, cMOT
 Note that 2 independent runs were executed for red MOT and cMOT stages as a consistency check. The actual runs in each stage whose data we used for the paper are:
 
 (Capture) Red MOT: 20250831_2359
+
 Compressed red MOT step 1: 20250901_1046
+
 Compressed red MOT step 2: 20250831_1046
 
 WLS contains 8 separate runs (all in the folder) which are interpolated together to simulate a converging slowing beam with 300 mW of power.
